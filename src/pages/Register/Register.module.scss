@@ -1,0 +1,25 @@
+.register_wrp{
+  padding: 5px;
+  box-sizing: border-box;
+}
+.register_link{
+  text-decoration: none;
+  color: #676c6b;
+  text-align: center;
+}
+.register_title{
+  color: #676c6b;
+  text-align: center;
+}
+.login_form{
+  margin: 0 auto;
+  width: 80%;
+}
+.login_field{
+  margin-top: 10px !important;
+}
+.login_button{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}

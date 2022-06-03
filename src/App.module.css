@@ -1,0 +1,12 @@
+.general_wrp{
+    height: calc(100vh - 170px);
+    width: 100%;
+}
+.pages_wrp{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
